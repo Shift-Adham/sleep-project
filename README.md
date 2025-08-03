@@ -32,7 +32,3 @@ This project is an interactive **Sleep Disorder Analysis Dashboard** built using
    streamlit run your_script_name.py
    ```
 4. Use the sidebar to explore different filters and interact with the visualizations.
-
----
-
-If you want, I can help you format it as a full README.md too!
